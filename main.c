@@ -1,4 +1,8 @@
 void main void
 {
-int x =10;
+<<<<<<< HEAD
+;
+=======
+y=20;
+>>>>>>> develop
 }
